@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Heiner Navarro</h1>
 
 <p align="center">
-  Junior software developer with an IT support background, from Costa Rica.<br>
-  I build web apps, work with databases, and I know infrastructure because I have supported it.
+  Junior software developer from Costa Rica with a background in IT support.<br>
+  I build web applications and data-driven tools, and I understand the infrastructure beneath them.
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="mailto:heinern14@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-heinern14%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-Systems Engineering student at Universidad Americana (expected 2028). Available immediately for remote or hybrid work.
+Systems Engineering student at Universidad Americana (graduating 2028). Available immediately for remote and hybrid roles.
 
 ## What I work with
 
@@ -30,16 +30,16 @@ Systems Engineering student at Universidad Americana (expected 2028). Available 
   <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white">
 </p>
 
-Most of it is basic to intermediate level, and I keep improving it with real projects.
+Levels range from basic to intermediate. I keep strengthening them by building and testing real projects.
 
 ## Projects
 
 | Project | What it is |
 |---------|------------|
-| [inventory-quotes](https://github.com/Heinernn/inventory-quotes) | Inventory and quotation manager (Flask + SQLite). The server validates stock and calculates tax. 7 tests. |
-| [task-automation](https://github.com/Heinernn/task-automation) | Python CLI tools: a safe file organizer (dry run by default) and a support ticket report. 6 tests. |
-| [it-support-notes](https://github.com/Heinernn/it-support-notes) | The guides I use for support work: networking, Windows reinstall, Linux basics, virtualization. |
+| [inventory-quotes](https://github.com/Heinernn/inventory-quotes) | Inventory and quotation manager (Flask, SQLite). Stock validation, tax and totals are handled on the server. 7 automated tests. |
+| [task-automation](https://github.com/Heinernn/task-automation) | Python command line tools: a file organizer that previews by default and a support ticket report. 6 automated tests. |
+| [it-support-notes](https://github.com/Heinernn/it-support-notes) | Step-by-step support guides: networking, Windows reinstall, Linux basics and virtualization. |
 
 ## Contact
 
-The fastest way to reach me is email: heinern14@gmail.com
+Email is the fastest way to reach me: heinern14@gmail.com
