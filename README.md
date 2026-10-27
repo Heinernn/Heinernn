@@ -36,6 +36,7 @@ Levels range from basic to intermediate. I keep strengthening them by building a
 
 | Project | What it is |
 |---------|------------|
+| [glasstv](https://github.com/Heinernn/glasstv) | Lightweight Android TV home screen (Java) with ADB debloat scripts and patches for an open-source AirPlay receiver. Tested on a real TV; CI builds the launcher. |
 | [inventory-quotes](https://github.com/Heinernn/inventory-quotes) | Inventory and quotation manager (Flask, SQLite). Stock validation, tax and totals are handled on the server. 7 automated tests. |
 | [task-automation](https://github.com/Heinernn/task-automation) | Python command line tools: a file organizer that previews by default and a support ticket report. 6 automated tests. |
 | [it-support-notes](https://github.com/Heinernn/it-support-notes) | Step-by-step support guides: networking, Windows reinstall, Linux basics and virtualization. |
